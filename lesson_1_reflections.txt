@@ -1,0 +1,6 @@
+Diff viewing shows lines where difference occurs. This information helps us to figure out what is possibly wrong in a new version.
+Having different versions of same source code could help us to figure out the point where we get wrong direction. So we would be able to optimize our code or maybe get rid of some errors.
+Because some version control systems are designed to be universal and not operate exactly on source code while others are specifically designed to work with programming code
+We use just "git log" command to get commits' history. Then we pick two ids of commits and write git command "git diff first_id second_id". Then we would get information about difference.
+We always would have possibility to return to version without error that we had found in recent versions.
+I don't know yet. But possibly i'll use it widely in my projects. Exactly i want to enroll to android nanodegree programm, and git is required for this program.
