@@ -1,2 +1,4 @@
 You initialize git directory to track changes to your files. That way you could commit changes and get old versions of your files whether you want to do it.
 I think it make possible to commit changes to a few files. 
+You can check your changes before commit
+Branch helps in organizing history. That way you could develop programm in different ways and versions in parallel
