@@ -1,0 +1,3 @@
+I would use remote repository when i want to edit it from different stations. Or i would like to make a team project
+That will be more error prone solution for version control
+We use branch to deal with the same repository and different version of working code. We use clone to clone repository, for example from github, to our local repository. We use fork in GitHub to make a copy of another repository and work on it.
